@@ -15,3 +15,19 @@ Method 2:
 1) Click on the code button and click download zip
    
    ![step 1](./steps/Step1.png)
+   
+2) Open up your downloaded zip
+   
+   ![step 2](./steps/Step2.png)
+
+3) Extract your zip file
+   
+   ![step 3](./steps/Step3.png)
+
+4) Open up your extracted zip file and you should see a .rbxl file
+   
+   ![step 1](./steps/Step2.png)
+
+5) Open the .rbxl file up and you should have a local copy of the game that you can play!
+   
+6) Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.
