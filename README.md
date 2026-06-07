@@ -12,4 +12,5 @@ Method 1:
 4) If this method does not work for you due to age restrictions, try method 2.
 
 Method 2:
-1) Download the rblx file from the repo
+1) Click on the code button and click download zip
+   ![step 1](./steps/step1.png)
