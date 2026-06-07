@@ -6,3 +6,10 @@ A game about getting to the top of a tower, but running into unexpected challang
 
 ## How to play the game
 Method 1:
+1) Go to https://nyxo-0.github.io/Roblox-tower-project/
+2) Click the hyperlink
+3) Play on Roblox as you would a normal Roblox game
+4) If this method does not work for you due to age restrictions, try method 2.
+
+Method 2:
+1) Download the rblx file from the repo
