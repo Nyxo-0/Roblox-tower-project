@@ -32,4 +32,4 @@ A game about getting to the top of a tower, but running into unexpected challang
 
 5) Open the .rbxl file up and you should have a local copy of the game that you can play!
    
-6) Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.
+*Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.*
