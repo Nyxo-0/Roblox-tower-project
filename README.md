@@ -28,8 +28,12 @@ A game about getting to the top of a tower, but running into unexpected challang
 
 4) Open up your extracted zip file and you should see a .rbxl file
    
-   ![step 1](./steps/Step2.png)
+   ![step 4](./steps/Step4.png)
 
 5) Open the .rbxl file up and you should have a local copy of the game that you can play!
+
+6) Once your in your local copy, go to your game settings
+
+   ![step 4](./steps/Step6.png)
    
 *Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.*
