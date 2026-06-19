@@ -34,6 +34,6 @@ A game about getting to the top of a tower, but running into unexpected challang
 
 6) Once your in your local copy, go to your game settings
 
-   ![step 4](./steps/Step6.png)
+   ![step 6](./steps/Step6.png)
    
 *Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.*
