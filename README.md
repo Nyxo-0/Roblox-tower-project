@@ -2,7 +2,7 @@
 
 A game about getting to the top of a tower, but running into unexpected challanges on the way!
 
-⚠️ **Accessibility Issues:** Unfortunately due to Roblox age restrictions, some users may not be able to play the game, therefore, the game files will be here for anyone to download ⚠️
+⚠️ **Accessibility Issues:** Unfortunately due to Roblox age restrictions (you have to be 16+ to play the game on Roblox), some users may not be able to play the game, therefore, the game files will be here for anyone to download ⚠️
 
 ## How to play the game
 
