@@ -30,10 +30,14 @@ A game about getting to the top of a tower, but running into unexpected challang
    
    ![step 4](./steps/Step4.png)
 
-5) Open the .rbxl file up and you should have a local copy of the game that you can play!
-
-6) Once your in your local copy, go to your game settings
+5) Open the .rbxl file up using roblox studio
+   
+7) once you are in your local copy, go to the top left corner where you see the "Files" tab, click on it, and click "Experience Settings"
 
    ![step 6](./steps/Step6.png)
+
+8) In the Experience Settings page, click on the "Security" tab and enable "Allow HTTP Requests" and "Enable Studio Access to API Services." Now you should have a local copy of the game that you can play (there will be issues with this, so it is **HIGHLY** recommended you use the actual game on Roblox!)
+   
+   ![step 7](./steps/Step7.png)
    
 *Keep in mind you need [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) to open the file up! Also remember that there may be permission errors with things like audio in your local version.*
