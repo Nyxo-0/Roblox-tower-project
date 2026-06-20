@@ -1,0 +1,35 @@
+{
+  "name": "ROBLOXTOWERGAME",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$path": "src/Workspace"
+    },
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts"
+      },
+      "StarterCharacterScripts": {
+        "$path": "src/StarterCharacterScripts"
+      }
+    }
+  }
+}
